@@ -133,7 +133,6 @@ int main()
             int a_prima = INVERSO(a,27);
             if(a_prima%3 != 0){
                 cout << a << "-" << b << " = " << DESCIFRADO(a_prima,b,newpalabra) << endl;
-                cout<<endl;
             }
         }
     }
